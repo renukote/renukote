@@ -1,13 +1,13 @@
 <div align="center" ><img src = "https://raw.githubusercontent.com/Renukote/Renukote/051cadb27789caa9a268427a07ad8d9e3b6c7cec/web-developer-img.svg" /></div>
 
-<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Renuka Prasad </h1>
-<h3 align="center">I'm a MERN Stack Developer from Masai School</h3>
+<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Renuka Prasad </h1>
+<h3 align="center">A young and newbie MERN Stack Developer from Masai School</h3>
 
 ## 🙋‍♂️ About Me
 
 - I’m a student pursuing **Full Stack Web Development** at **[Masai School](https://www.masaischool.com/)**
 
-- I’m looking forward to lauching my career as an **SDE**
+- Looking forward to lauching my career as an **SDE**
 
 - 👨‍💻 All of my projects are available at ***[My Github Repositories](https://github.com/Renukote?tab=repositories)***
 
