@@ -1,7 +1,7 @@
-<div align="center" ><img src = "https://raw.githubusercontent.com/Renukote/Renukote/051cadb27789caa9a268427a07ad8d9e3b6c7cec/web-developer-img.svg" /></div>
-
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Renuka Prasad </h1>
 <h3 align="center">A young and newbie MERN Stack Developer from Masai School</h3>
+
+<div align="center" ><img src = "https://raw.githubusercontent.com/Renukote/Renukote/051cadb27789caa9a268427a07ad8d9e3b6c7cec/web-developer-img.svg" /></div>
 
 ## 🙋‍♂️ About Me
 
