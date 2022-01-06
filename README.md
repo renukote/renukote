@@ -37,7 +37,6 @@
    </p>
     
     
-    <br/>
     
   <p align="center">
   <a href="https://github.com/Renukote/github-readme-stats"><img alt="Renu kote's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renukote&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
