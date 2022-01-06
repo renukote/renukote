@@ -5,11 +5,9 @@
 
 ## 🙋‍♂️ About Me
 
-- I’m a student at **[Masai School](https://www.masaischool.com/)**
+- I’m a student pursuing **Full Stack Web Development** at **[Masai School](https://www.masaischool.com/)**
 
-- I’m pursuing **Full Stack Web Development at Masai School**
-
-- I’m looking forward to lauching my career as a **Web Developer**
+- I’m looking forward to lauching my career as an **SDE**
 
 - 👨‍💻 All of my projects are available at ***[My Github Repositories](https://github.com/Renukote?tab=repositories)***
 
