@@ -57,7 +57,7 @@
 ## Connect with me:
 <p align="left">
 <a href = "https://www.linkedin.com/in/renukaprasadkb/"><img src="https://img.icons8.com/fluent/40/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/renu.kote/"><img src="https://img.icons8.com/fluent/40/000000/instagram-new.png"/></a>
+<a href = "https://medium.com/@renukaprasad.kb"><img src="https://img.icons8.com/fluency/40/000000/medium-logo.png"/></a>
 </p>
 
 
