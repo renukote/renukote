@@ -1,5 +1,5 @@
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Renuka Prasad </h1>
-<h3 align="center">A young and newbie MERN Stack Developer from Masai School</h3>
+<h3 align="center">A young and enthusiastic MERN Stack Developer from Masai School</h3>
 
 <div align="center" ><img src = "https://raw.githubusercontent.com/Renukote/Renukote/051cadb27789caa9a268427a07ad8d9e3b6c7cec/web-developer-img.svg" /></div>
 
@@ -36,7 +36,7 @@
     <a href="https://github.com/Renukote/github-readme-stats"><img alt="Renu kote's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Renukote&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
    </p>
     
-    
+ <br/> <br/>
     
   <p align="center">
   <a href="https://github.com/Renukote/github-readme-stats"><img alt="Renu kote's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renukote&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
