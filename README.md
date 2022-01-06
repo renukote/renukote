@@ -5,15 +5,15 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently student at **[Masai School](https://www.masaischool.com/)**
+- I’m a student at **[Masai School](https://www.masaischool.com/)**
 
-- 🌱 I’m pursuing **Full Stack Web Development at Masai School**
+- I’m pursuing **Full Stack Web Development at Masai School**
 
-- 👯 I’m looking forward to lauching my career as a **Web Developer**
+- I’m looking forward to lauching my career as a **Web Developer**
 
-- 👨‍💻 All of my projects are available at **[My Github Repositories](https://github.com/Renukote?tab=repositories)**
+- 👨‍💻 All of my projects are available at ***[My Github Repositories](https://github.com/Renukote?tab=repositories)***
 
-- 📫 Reach out to me at **renukaprasad.kb@gmail.com**
+- 📫 Reach out to me at ***renukaprasad.kb@gmail.com***
 
 - Check out my ***[portfolio]()***
 
