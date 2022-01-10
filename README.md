@@ -9,9 +9,9 @@
 
 - Looking forward to lauching my career as an **SDE**
 
-- 👨‍💻 All of my projects are available at ***[My Github Repositories](https://github.com/Renukote?tab=repositories)***
+- All of my projects are available at ***[My Github Repositories](https://github.com/Renukote?tab=repositories)***
 
-- 📫 Reach out to me at ***renukaprasad.kb@gmail.com***
+- Reach out to me at ***renukaprasad.kb@gmail.com***
 
 - Check out my ***[portfolio]()***
 
