@@ -50,6 +50,8 @@
 
 <a href="https://github.com/Renukote/github-readme-activity-graph"><img alt="Renu kote's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Renukote&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
+<img src="https://ghchart.rshah.org/renu-codewalnut" alt="Name Your Github chart">
+
 <br/>
 <br/> <br/>
 
