@@ -1,17 +1,11 @@
-<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Renuka Prasad </h1>
-<h3 align="center"> MERN Stack Web Developer</h3>
+<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">My name is Renuka Prasad </h1>
+<h3 align="center">I am a Senior Software Engineer</h3>
 
 <div align="center" ><img src = "https://raw.githubusercontent.com/Renukote/Renukote/051cadb27789caa9a268427a07ad8d9e3b6c7cec/web-developer-img.svg" /></div>
 
 ## 🙋‍♂️ About Me
 
-- I’m a student pursuing **Full Stack Web Development** at **[Masai School](https://www.masaischool.com/)**
-
-- Looking forward to lauching my career as an **SDE**
-
-- All of my projects are available at ***[My Github Repositories](https://github.com/Renukote?tab=repositories)***
-
-- Reach out to me at ***renukaprasad.kb@gmail.com***
+- I’m a Senior Software Engineer working at **[CodeWalnut]([https://www.codewalnut.com/])** X **[Sabre]([https://www.sabre.com/])** 
 
 - Check out my ***[portfolio](https://renukaprasad.vercel.app/)***
 
